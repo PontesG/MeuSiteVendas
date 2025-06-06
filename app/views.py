@@ -39,7 +39,7 @@ def addUsuario(request):
 
 def editarUsuario(request, id_usuario):
     # Editar usuário existente
-    usuario = get_object_or_404(Usuario, id=pk)
+    usuario = get_object_or_404(Usuario, id=id_usuario)
     formUser = formUsuario(request.POST or None, instance=usuario)
     if request.method == 'POST':
         if formUser.is_valid():
