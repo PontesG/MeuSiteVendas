@@ -8,7 +8,7 @@
 
 ## 🧠 Objetivo
 
-Este projeto foi desenvolvido para a disciplina **Desenvolvimento Web III** do curso de **Desenvolvimento de Software Multiplataforma**, com o intuito de aplicar conhecimentos em:
+Este projeto foi desenvolvido em dupla com o Felipe de Souza Carvalho para a disciplina **Desenvolvimento Web III** do curso de **Desenvolvimento de Software Multiplataforma**, com o intuito de aplicar conhecimentos em:
 
 - Django (Python)
 - Bootstrap 5
