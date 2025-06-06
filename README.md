@@ -1,11 +1,8 @@
-<h1 align="center">🛒 Meu Site Bacana</h1>
+<h1 align="center">🛒 Meu Site Vendas</h1>
 <p align="center">
   Sistema de vendas online desenvolvido em Django.
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/Be9FqyQ.png" alt="Screenshot do site" width="70%">
-</p>
 
 ---
 
